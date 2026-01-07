@@ -13,7 +13,7 @@ A web application to search and view GitHub developers' profiles quickly and eas
 ## Demo
 
 You can add a live demo link here:  
-[Live Demo](https://github.com/theweborbitdev/github-develop-finder)
+[githubdev-finder.netlify.app](https://githubdev-finder.netlify.app/)
 
 ## Installation
 
